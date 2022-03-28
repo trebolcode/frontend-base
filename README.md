@@ -24,11 +24,11 @@ This project uses Docker, so it is necessary to have it installed as well:
 
 It is necessary to build the project using:
 
-`$ npm run docker:build`
+`npm run docker:build`
 
 Then, to execute the project you can use:
 
-`$ npm run docker:dev`
+`npm run docker:dev`
 
 And now you can open on the local host on port 3000.
 
