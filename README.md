@@ -22,6 +22,10 @@ This project uses Docker, so it is necessary to have it installed as well:
 
 ## How to start?
 
+Install all packages:
+
+`npm install`
+
 It is necessary to build the project using:
 
 `npm run docker:build`
@@ -36,4 +40,4 @@ And now you can open on the local host on port 3000.
 
 If you want to finish it, just press CTRL+D.
 
-### Version 0.1.0
+### Version 0.1.1
